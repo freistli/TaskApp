@@ -1,16 +1,16 @@
-﻿
+﻿/// <summary>
+/// Author:  freistli
+/// Purpose: Used to demo Task behavior in C# 7.0
+/// Date:    2019-03-06
+/// More explaination is on https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth
+/// </summary>
 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/// <summary>
-/// Author:  freistli
-/// Purpose: Used to demo Task behavior in C# 7.0
-/// Date:    2019-03-06
-/// More explaination is on https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth
-/// </summary>
+
 namespace TaskApp
 {
 
